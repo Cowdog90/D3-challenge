@@ -1,5 +1,7 @@
 
+//While I was able to get the required part to display, I never could get the bonus part.
 
+//This part, I cobbled together from snippets of code from the sctivities. Spent a lot of timetrying to connect it all, but clearly I've missed some step.
 
 
 
